@@ -11,6 +11,7 @@ end
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
   third_hash = {:name => "grace Hopper"}
+  return thirdd_hash
 end
 
 def id_generator
